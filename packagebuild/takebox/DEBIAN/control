@@ -1,0 +1,6 @@
+Package: takebox
+Version: 1.0
+Architecture: amd64
+Maintainer: gas <ibob@1c.ru>
+Depends: libgtk-3-0 (>= 3.22.30)
+Description: homework

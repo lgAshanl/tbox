@@ -1,0 +1,5 @@
+#!/bin/bash
+
+make client
+cp ./client.out ./packagebuild/takebox/usr/bin/takebox
+dpkg-deb --build packagebuild/takebox/

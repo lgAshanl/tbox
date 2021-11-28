@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TakeBox
+GenericName=takebox
+Exec=/usr/bin/takebox
+Type=Application
+StartupNotify=false
+Categories=Utility;GTK;Network
+Keywords=takebox;
